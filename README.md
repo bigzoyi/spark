@@ -7,3 +7,6 @@ http://edu.51cto.com/lesson/id-42288.html
 
 ##部分资料
 http://book.51cto.com/art/201408/448416.htm
+
+##大数据网站
+http://www.cloudera.com/content/www/en-us/training.html
