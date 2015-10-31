@@ -10,3 +10,7 @@ http://book.51cto.com/art/201408/448416.htm
 
 ##大数据网站
 http://www.cloudera.com/content/www/en-us/training.html
+
+##深入解读的两篇好文章
+http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-1/
+http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-2/
