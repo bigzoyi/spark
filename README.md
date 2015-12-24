@@ -14,3 +14,7 @@ http://www.cloudera.com/content/www/en-us/training.html
 ##深入解读的两篇好文章
 http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-1/
 http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-2/
+
+##Spark On YARN 集群安装部署
+
+http://wuchong.me/blog/2015/04/04/spark-on-yarn-cluster-deploy/
