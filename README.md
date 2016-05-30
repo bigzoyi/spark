@@ -18,3 +18,7 @@ http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-2/
 ##Spark On YARN 集群安装部署
 
 http://wuchong.me/blog/2015/04/04/spark-on-yarn-cluster-deploy/
+
+##大数据软件
+
+http://www.oschina.net/p/cubert
