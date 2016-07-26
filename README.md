@@ -22,3 +22,7 @@ http://wuchong.me/blog/2015/04/04/spark-on-yarn-cluster-deploy/
 ##大数据软件
 
 http://www.oschina.net/p/cubert
+
+##免费集群
+
+https://databricks.com/try-databricks
