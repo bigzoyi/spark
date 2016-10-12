@@ -26,3 +26,6 @@ http://www.oschina.net/p/cubert
 ##免费集群
 
 https://databricks.com/try-databricks
+
+##性能报告
+http://datainsight.blog.51cto.com/8987355/1426538
